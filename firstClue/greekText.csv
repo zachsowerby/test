@@ -1,8 +1,8 @@
-symbol,morse sequence
+symbol,morse sequence,Greek word
 h,short short short short
-t,long
-t,long
-p,short long long short
+t,long,ἡ
+t,long,τοῦ
+p,short long long short,
 s,short short short
 :,long long long short short short
 /,long short short long short
